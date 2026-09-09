@@ -1,0 +1,1 @@
+body{margin:0;background:#000;background-image:url("bg.png") no-repeat}video{position:fixed;top:50%;left:50%;min-width:100%;min-height:100%;width:auto;height:auto;z-index:-100;transform:translateX(-50%) translateY(-50%);background:url("bg.png") 0 0/cover no-repeat;transition:opacity 1s}
